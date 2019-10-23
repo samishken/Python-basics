@@ -1,4 +1,4 @@
-s="You are welcome"
+s="  You are welcome  "
 print(s)
 
 s1="""You are
@@ -46,7 +46,28 @@ print(j.strip())
 print(j.lstrip())
 # remove the spaces from right side
 print(j.rstrip())
+#Find
+print(s.find('wel'))
+print(s.find("wel"),0,len(s))
 
+#Count
+print(s.count("a"))
 
+#Replace
+print(s.replace('welcome', 'brave'))
 
+#letter cases
+print(s.upper())
+print(s.lower())
+print(s.title())
+  #title = You Are Welcome
 
+Assignment 1
+t=10
+print(t)
+r=20.54
+print(r)
+u=True
+print(u)
+v="I am the best"
+print(v)
