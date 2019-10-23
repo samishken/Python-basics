@@ -62,12 +62,10 @@ print(s.lower())
 print(s.title())
   #title = You Are Welcome
 
-Assignment 1
+# Assignment 1
 t=10
-print(t)
 r=20.54
-print(r)
 u=True
-print(u)
 v="I am the best"
-print(v)
+
+print(t,r,u,v)
