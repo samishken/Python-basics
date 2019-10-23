@@ -23,5 +23,25 @@ print(lst)
 del(lst[1])
 print(lst)
 
+# max and min element in the list
+print(max(lst))
+print(min(lst))
 
+# Insert
+# Insert 99 at index 3
+# outcome [10, -10, 30.5, 99, 40]
+lst.insert(3, 99)
+print(lst)
+
+# Sort
+   # asc
+lst.sort()
+print(lst)
+   # desc
+lst.sort(reverse=True)
+print(lst)
+
+#clear all elements
+lst.clear()
+print(lst)
 
