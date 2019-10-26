@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52e9dcda-2e7f-4567-97fa-c1059390f4d7" name="Default Changelist" comment="" />
+    <list default="true" id="52e9dcda-2e7f-4567-97fa-c1059390f4d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +14,8 @@
     <favorites_list name="basics" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SequenceTypes/listtype.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -33,13 +35,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basicprograms/some programs/averageofnumbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="70" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ControlsStatement/Loops -Project-PrimeOrNot.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -57,7 +64,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/basicprograms" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,7 +88,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1221" />
+    <option name="x" value="-1307" />
     <option name="y" value="-489" />
     <option name="width" value="1307" />
     <option name="height" value="852" />
@@ -104,13 +111,7 @@
             <path>
               <item name="basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="basics" type="462c0819:PsiDirectoryNode" />
-              <item name="basicprograms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-              <item name="basicprograms" type="462c0819:PsiDirectoryNode" />
-              <item name="some programs" type="462c0819:PsiDirectoryNode" />
+              <item name="SequenceTypes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -135,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IfElse- Even or Odd">
+  <component name="RunManager" selected="Python.Loops -Project-PrimeOrNot">
     <configuration name="IfElse- Even or Odd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bytesandbytearray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Loops -Project-PrimeOrNot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ControlsStatement" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bytesandbytearray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ControlsStatement/Loops -Project-PrimeOrNot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Loops -Project-PrimeOrNot" />
         <item itemvalue="Python.IfElse- Even or Odd" />
         <item itemvalue="Python.IfElseStatement" />
         <item itemvalue="Python.countriesList" />
         <item itemvalue="Python.dictionaryType" />
-        <item itemvalue="Python.bytesandbytearray" />
       </list>
     </recent_temporary>
   </component>
@@ -274,8 +275,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1221" y="-489" width="1307" height="852" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1307" y="-489" width="1307" height="852" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49619773" visible="true" weight="0.2527216" />
       <window_info id="Structure" order="1" sideWeight="0.5038023" side_tool="true" weight="0.24980843" />
@@ -288,7 +288,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32894737" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -334,28 +334,14 @@
     <entry file="file://$PROJECT_DIR$/listtype.py" />
     <entry file="file://$PROJECT_DIR$/settype.py" />
     <entry file="file://$PROJECT_DIR$/countriesList.py" />
-    <entry file="file://$PROJECT_DIR$/Flow Control Statements/ifelsestatements.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IfElse- Even or Odd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Flow Control Statements/ifelsestatements.py" />
+    <entry file="file://$PROJECT_DIR$/IfElse- Even or Odd.py" />
     <entry file="file://$PROJECT_DIR$/FlowControlStatements/IfElseStatement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/countriesList.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/listtype.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SequenceTypes/settype.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -368,10 +354,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basicprograms/some programs/averageofnumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="70" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/countriesList.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ControlsStatement/Loops -Project-PrimeOrNot.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/listtype.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
