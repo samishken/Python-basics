@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52e9dcda-2e7f-4567-97fa-c1059390f4d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pythonarguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,47 +15,7 @@
     <favorites_list name="basics" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SequenceTypes/listtype.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SequenceTypes/settype.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SequenceTypes/tupletype.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicprograms/some programs/areaofacircle.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicprograms/some programs/averageofnumbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ControlsStatement/Loops -Project-PrimeOrNot.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SequenceTypes/countriesList.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,12 +45,13 @@
         <option value="$PROJECT_DIR$/Flow Control Statements/ifelsestatements.py" />
         <option value="$PROJECT_DIR$/FlowControlStatements/IfElseStatement.py" />
         <option value="$PROJECT_DIR$/IfElse- Even or Odd.py" />
+        <option value="$PROJECT_DIR$/CommandLine/pythonarguments.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1307" />
-    <option name="y" value="-489" />
+    <option name="x" value="60" />
+    <option name="y" value="24" />
     <option name="width" value="1307" />
     <option name="height" value="852" />
   </component>
@@ -101,28 +63,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-              <item name="SequenceTypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Loops -Project-PrimeOrNot">
+  <component name="RunManager" selected="Python.pythonarguments">
     <configuration name="IfElse- Even or Odd" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionaryType" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pythonarguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CommandLine" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaryType.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonarguments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pythonarguments" />
         <item itemvalue="Python.Loops -Project-PrimeOrNot" />
         <item itemvalue="Python.IfElse- Even or Odd" />
         <item itemvalue="Python.IfElseStatement" />
         <item itemvalue="Python.countriesList" />
-        <item itemvalue="Python.dictionaryType" />
       </list>
     </recent_temporary>
   </component>
@@ -275,14 +227,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1307" y="-489" width="1307" height="852" extended-state="0" />
+    <frame x="60" y="24" width="1307" height="852" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49619773" visible="true" weight="0.2527216" />
       <window_info id="Structure" order="1" sideWeight="0.5038023" side_tool="true" weight="0.24980843" />
       <window_info id="Favorites" order="2" sideWeight="0.50190115" side_tool="true" weight="0.24980843" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34078947" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34078947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -343,10 +296,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/settype.py">
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/tupletype.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/tupletype.py">
+    <entry file="file://$PROJECT_DIR$/pythonarguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/listtype.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/settype.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/basicprograms/some programs/areaofacircle.py">
@@ -359,13 +322,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/countriesList.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ControlsStatement/Loops -Project-PrimeOrNot.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SequenceTypes/listtype.py">
+    <entry file="file://$PROJECT_DIR$/SequenceTypes/countriesList.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
