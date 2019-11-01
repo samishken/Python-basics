@@ -11,4 +11,4 @@ print(type(result))
 
 for i in result:
     print(i)
-    print(type(i))
+print(type(i))
