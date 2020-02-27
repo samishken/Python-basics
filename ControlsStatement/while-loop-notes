@@ -1,0 +1,10 @@
+#while loop
+- Instruct your computer to continuously 
+- execute your code based on the value of a condition. 
+- Executes multiple times unlike IF statement which executes only once.
+
+x = 0
+while x < 5:
+  print("not there yet, x=" + str(x))
+  x = x+1
+print("x=" + str(x))
