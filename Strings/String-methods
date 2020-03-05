@@ -23,3 +23,29 @@ The inverse of the join method is the split method. This allows us to split a st
 - print(initials("Universal Serial Bus")) # Should be: USB
 - print(initials("local area network")) # Should be: LAN
 - print(initials("Operating system")) # Should be: OS
+
+
+
+- def is_palindrome(input_string):
+
+	- new_string = ""
+	- reverse_string = ""
+
+	- for string in input_string:
+		- if string != " ":
+			- new_string = input_string.replace(" ", "").lower()
+			- reverse_string = input_string.replace(" ", "").lower()[::-1]
+	
+	- if new_string == reverse_string:
+		- return True
+	- return False
+
+- print(is_palindrome("car")) # Should be True
+- print(is_palindrome("Never Odd or Even")) # Should be True
+- print(is_palindrome("abc")) # Should be False
+print(is_palindrome("kayak")) # Should be True
+
+print("")
+print("")
+message = "car"
+print(message[::-1].upper())
