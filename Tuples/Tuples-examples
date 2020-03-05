@@ -30,3 +30,17 @@ Fill in the gaps in this function to do that.
 		- print("{} is {} years old and works as {}".format(guest[0], guest[1], guest[2]))
     - outcome "Ken is 30 years old and works as Chef."
 - guest_list([('Ken', 30, "Chef"), ("Pat", 35, 'Lawyer'), ('Amanda', 25, "Engineer")])
+
+
+
+
+
+- def full_emails(people):
+  - result = []
+  - for email, name in people:
+   -  result.append("{} <{}>".format(name,email))
+  - return result
+
+- print(full_emails([("alex@example.com", "Alex Diego"), ("shay@example.com", "Shay Brandt")]))
+
+expected outcome: ['Alex Diego <alex@example.com>', 'Shay Brandt <shay@example.com>']
