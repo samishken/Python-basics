@@ -10,10 +10,21 @@ You might be wondering why tuples are a thing, given how similar they are to lis
 - guest_list([('Ken', 30, "Chef"), ("Pat", 35, 'Lawyer'), ('Amanda', 25, "Engineer")])
 
 
-- winners = ["Ashley", "Dylan", "Reese"]
-- for index, person in enumerate(winners):
+#Enumerate function
+
+1) - winners = ["Ashley", "Dylan", "Reese"]
+	- for index, person in enumerate(winners):
  		- print("{} - {}".format(index + 1, person))
 
               # 1 - Ashley
               #  2 - Dylan
               #  3 - Reese
+	      
+2)
+- def skip_elements(elements):
+	-  code goes here
+	- for index, elment in enumerate(elements):
+	  - return elements[::2]
+
+- print(skip_elements(["a", "b", "c", "d", "e", "f", "g"])) # Should be ['a', 'c', 'e', 'g']
+- print(skip_elements(['Orange', 'Pineapple', 'Strawberry', 'Kiwi', 'Peach'])) # Should be ['Orange', 'Strawberry', 'Peach']
