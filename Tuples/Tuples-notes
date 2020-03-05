@@ -11,6 +11,7 @@ You might be wondering why tuples are a thing, given how similar they are to lis
 
 
 #Enumerate function
+ if you want to access the elements in a list, along with the index of the element in question, you can do this using the #enumerate() function. The enumerate() function takes a list as a parameter and returns a tuple for each element in the list. The first value of the tuple is the index and the second value is the element itself
 
 1) - winners = ["Ashley", "Dylan", "Reese"]
 	- for index, person in enumerate(winners):
