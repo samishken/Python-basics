@@ -12,3 +12,9 @@
     - return new_email
   - return email
 
+
+= old_domain IN email - True or False (if TRUE that the @ sign and old domain are contained in the email address)
+= index = email.index("@" + old_domain).  - find out the old domain and where the @ sign starts
+= email[:index] = based on the above findings create the new email
+
+= last line "return email" is if the True or False check (if "@" + old_domain in email:) was FALSE
